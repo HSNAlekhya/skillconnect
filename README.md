@@ -517,11 +517,11 @@ http://localhost:5173/
 
 # Error Handling
 
-The application handles database/API failures gracefully.
+-> The application handles database/API failures gracefully.
 
-If the backend cannot connect to CognoDB, the frontend displays an error message instead of failing silently.
+-> If the backend cannot connect to CognoDB, the frontend displays an error message instead of failing silently.
 
-Loading states are also displayed while graph data is being retrieved.
+-> Loading states are also displayed while graph data is being retrieved.
 
 ---
 
